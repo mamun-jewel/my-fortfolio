@@ -1,0 +1,26 @@
+ body{
+     margin:o auto;
+     padding: 0;
+     font-family: 'Montserrat', sans-serif;
+ }
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: yellow
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img {
+    width: 70%;
+}
+
+.top-banner {
+    border: 2px solid red;
+    background-image: url("images/top-banner.png");
+}
